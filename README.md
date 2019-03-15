@@ -14,3 +14,6 @@ Press the "start" button to start the game.
 
 Pressed the "pause" button to screenshot. The "start" button turns to the "resume" button.
 
+![image](https://user-images.githubusercontent.com/48542636/54408759-61bd0500-46a0-11e9-9626-f3c33117f1f5.png)
+
+The snake hits one of the four walls, game stopped.
